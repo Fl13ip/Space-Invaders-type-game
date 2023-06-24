@@ -1,1 +1,2 @@
-# Space-Invaders-type-game
+# Space Invaders type game
+
