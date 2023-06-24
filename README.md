@@ -12,4 +12,4 @@
 ## Screenshots
 - Game environment
 
-<img width="399" alt="Captura de ecrã 2023-06-24 140358" src="https://github.com/Fl13ip/Space-Invaders-type-game/assets/94529914/eb437a44-9716-4305-b63e-32fcb71d2532">
+<img width="398" alt="Captura de ecrã 2023-06-24 141510" src="https://github.com/Fl13ip/Space-Invaders-type-game/assets/94529914/37ce9a15-db26-4237-835a-50ade2925430">
