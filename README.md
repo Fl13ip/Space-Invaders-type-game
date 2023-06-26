@@ -10,6 +10,6 @@
 - When the ship shoots and hits an alien, the alien changes position, according to the random coordinates assigned to it and a value is incremented to the score.
 
 ## Screenshots
-- Game environment
+- Game environment:
 
 <img width="398" alt="Captura de ecrã 2023-06-24 141510" src="https://github.com/Fl13ip/Space-Invaders-type-game/assets/94529914/37ce9a15-db26-4237-835a-50ade2925430">
